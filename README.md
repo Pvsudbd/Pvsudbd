@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yoga or Pv</h1>
-<h3 align="center">I'am a novice programmer. Curently studying PHP and React!.</h3>
+<h3 align="center">I'am a novice programmer. Curently studying PHP and C++!.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pvsudbd&label=Profile%20views&color=0e75b6&style=flat" alt="pvsudbd" /> </p>
 
