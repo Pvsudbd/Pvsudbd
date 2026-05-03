@@ -33,8 +33,8 @@ Saya adalah seorang mahasiswa Informatika yang berfokus pada pengembangan perang
 
 ## 📈 Statistik GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[USERNAME_GITHUB_ANDA]&show_icons=true&theme=tokyonight" alt="Statistik GitHub" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[USERNAME_GITHUB_ANDA]&layout=compact&theme=tokyonight" alt="Bahasa Populer" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Pvsudbd&show_icons=true&theme=tokyonight" alt="Statistik GitHub" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pvsudbd&layout=compact&theme=tokyonight" alt="Bahasa Populer" height="150" />
 </p>
 
 ---
