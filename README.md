@@ -1,13 +1,3 @@
-# 👋 Halo, Saya Yoga!
-
-## 🚀 Tentang Saya
-Saya adalah seorang mahasiswa Informatika yang berfokus pada pengembangan perangkat lunak dan kecerdasan buatan. Saya memiliki minat besar dalam memecahkan masalah kompleks melalui kode dan terus mengeksplorasi teknologi terbaru.
-
-- 💻 Focusing on: **Machine Learning, Game, dan tech**.
-- 🛠️ Currently learn Java, react, and python family.
-- 🎨 Like to study anything related to tech and economy.
-
----
 
 ## 🛠️ Tech Stack & Tools
 
@@ -29,16 +19,3 @@ Saya adalah seorang mahasiswa Informatika yang berfokus pada pengembangan perang
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
 </p>
 
----
-
-## 📈 Statistik GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pvsudbd&show_icons=true&theme=tokyonight" alt="Statistik GitHub" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pvsudbd&layout=compact&theme=tokyonight" alt="Bahasa Populer" height="150" />
-</p>
-
----
-
-## 📫 Mari Terhubung!
-- 📧 Email: yogaperkasadidik778@gmail.com
-- 🔗 LinkedIn: Not now boy :)
