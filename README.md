@@ -1,5 +1,5 @@
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Currently or ever used in project before.
 
 ### 💻 Programming languange
 <p align="left">
