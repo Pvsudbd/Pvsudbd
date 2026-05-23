@@ -1,4 +1,6 @@
-
+# Hi, Welcome to the workspace!!!
+- Currently study machine learning and having fun with mods
+  
 ## 🛠️ Currently or ever used in project before.
 
 ### 💻 Programming languange
