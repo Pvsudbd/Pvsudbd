@@ -61,6 +61,13 @@
   <img src="https://img.shields.io/badge/OpenPencil-FFCC00?style=for-the-badge&logo=opensourceinitiative&logoColor=black" alt="OpenPencil" />
 </p>
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" height="170" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="170" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="170" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="170" />
+</div>
+
 ## Projects Completed
 
 | Technology | Total Projects |
